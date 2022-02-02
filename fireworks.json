@@ -1,0 +1,28 @@
+{
+   "FireworkDisplay":[
+      {
+         "type":"Fountain",
+         "begin":1000,
+         "colour":"#20FF40",
+         "duration":5000,
+         "positions":{
+            "x":0,
+            "y":-384
+         }
+      },
+      {
+         "type":"Rocket",
+         "begin":2000,
+         "colour":"#FF2020",
+         "duration":1000,
+         "positions":{
+            "x":500,
+            "y":-384
+         },
+         "velocity":{
+            "x":-3,
+            "y”":10
+         }
+      }
+   ]
+}
